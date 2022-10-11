@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies giữa devices)
+Update Discord and Contributing Guide URLs (#9270)
