@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Feature: Create HUB Models from CLI or Python Script (#7316)
