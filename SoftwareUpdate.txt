@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add YOLOv8 LibTorch C++ inference example (#7090)
