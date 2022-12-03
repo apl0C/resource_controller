@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Add PR Summary step to Ultralytics Actions (#7675)
