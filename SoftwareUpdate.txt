@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+fix for predicting with batch_size > 1 (#47)
