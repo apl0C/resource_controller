@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+New HUB Cloud Training docs page (#8174)
