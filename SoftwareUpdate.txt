@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
