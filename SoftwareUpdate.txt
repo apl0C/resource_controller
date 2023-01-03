@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add new YOLOv8 OBB model metrics (#7379)
