@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Update Discord and Contributing Guide URLs (#9270)
