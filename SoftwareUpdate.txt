@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
