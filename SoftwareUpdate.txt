@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
