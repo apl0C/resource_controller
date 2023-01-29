@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
