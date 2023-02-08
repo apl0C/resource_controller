@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Compare plt.get_backend() in lowercase (#8409)
