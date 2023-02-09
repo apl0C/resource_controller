@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Update fraction arg to employ a random selection (#8234)
