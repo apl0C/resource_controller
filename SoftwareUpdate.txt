@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
