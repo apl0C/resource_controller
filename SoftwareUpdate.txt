@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Fix IS_PYTHON_3_12 bug (#9258)
