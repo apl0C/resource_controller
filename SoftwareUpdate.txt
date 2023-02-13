@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Fixed RTDETR GFLOPs bug (#7309)
