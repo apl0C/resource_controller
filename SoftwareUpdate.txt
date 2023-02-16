@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update HTTP to HTTPS (#7548)
