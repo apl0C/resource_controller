@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Merge pull request #22 from SkalskiP/patch-1
