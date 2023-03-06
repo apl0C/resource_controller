@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Update pyproject.toml and Docs (#7274)
