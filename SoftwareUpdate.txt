@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+ultralytics 8.0.228 add training time argument (#7054)
