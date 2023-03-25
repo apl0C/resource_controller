@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Add visuals in guides/distance-calculation.md (#7876)
