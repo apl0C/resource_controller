@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
