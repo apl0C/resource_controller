@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Add Amazon Sagemaker Docs integrations page (#7293)
