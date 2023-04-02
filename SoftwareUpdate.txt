@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+* fix for KeyError: 'epoch'
