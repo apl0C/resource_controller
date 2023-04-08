@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Improve Docs Modes tables (#8266)
