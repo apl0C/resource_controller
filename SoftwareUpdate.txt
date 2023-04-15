@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Explorer with LanceDB, Actions and Docs updates (#7487)
