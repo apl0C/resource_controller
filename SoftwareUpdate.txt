@@ -1,1 +1,1 @@
-fix predict with class filter
+Object Counter improvements (#8648)
