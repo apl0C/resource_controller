@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
