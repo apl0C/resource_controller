@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Auto-format by https://ultralytics.com/actions
