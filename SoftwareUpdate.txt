@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Add dota8.yaml and O tests (#7394)
