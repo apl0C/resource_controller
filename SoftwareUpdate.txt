@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
