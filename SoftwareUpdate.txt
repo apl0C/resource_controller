@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
