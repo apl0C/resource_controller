@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
