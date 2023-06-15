@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update IoU capitalization (#8604)
