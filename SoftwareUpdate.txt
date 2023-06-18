@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Update pyproject.toml and Docs (#7274)
