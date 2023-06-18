@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add C++ Classify inference example (#6868)
