@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
