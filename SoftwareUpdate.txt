@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies giữa devices)
+Update Dockerfile for Raspberry Pi Support (#8123)
