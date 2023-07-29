@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
