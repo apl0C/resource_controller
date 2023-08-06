@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add OBB benchmarks to CI (#7777)
