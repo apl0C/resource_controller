@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
