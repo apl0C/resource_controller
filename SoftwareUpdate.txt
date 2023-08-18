@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Optimize function calls to method calls (#8507)
