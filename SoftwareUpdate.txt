@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Explorer with LanceDB, Actions and Docs updates (#7487)
