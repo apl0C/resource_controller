@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Fix TFLite INT8 for OBB (#7989)
