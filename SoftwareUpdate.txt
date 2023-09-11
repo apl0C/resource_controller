@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+YOLOv8 INT8 TFLite Inference Example (#7317)
