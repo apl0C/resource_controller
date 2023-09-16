@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+Update fraction arg to employ a random selection (#8234)
