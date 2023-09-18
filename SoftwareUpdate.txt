@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
