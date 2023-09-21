@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
