@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+YOLOv8 INT8 TFLite Inference Example (#7317)
