@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add missing single-line docstrings (#8362)
