@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Fix heatmaps width-height order bug (#7184)
