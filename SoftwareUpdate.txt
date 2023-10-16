@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
