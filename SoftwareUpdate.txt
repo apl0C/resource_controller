@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add Amazon Sagemaker Docs integrations page (#7293)
