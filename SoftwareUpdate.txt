@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Compress docs images (#8124)
