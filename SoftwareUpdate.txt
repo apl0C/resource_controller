@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
