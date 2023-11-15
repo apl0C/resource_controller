@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add PaddlePaddle Docs Integrations Page (#8858)
