@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+fix for KeyError: 'epoch' (#48)
