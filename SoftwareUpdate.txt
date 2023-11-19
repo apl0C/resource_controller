@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add Amazon Sagemaker Docs integrations page (#7293)
