@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
