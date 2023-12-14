@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Improve Docs Modes tables (#8266)
