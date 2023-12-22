@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
