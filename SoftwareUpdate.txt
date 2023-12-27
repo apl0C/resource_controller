@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
