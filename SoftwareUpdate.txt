@@ -1,1 +1,1 @@
-fix val each epoch
+add logs
