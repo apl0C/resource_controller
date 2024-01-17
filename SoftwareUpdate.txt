@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add estimate_speed(region_color) parameter (#8285)
