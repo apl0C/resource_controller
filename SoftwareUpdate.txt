@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
