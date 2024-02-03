@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Update mkdocs.yml (#7693)
