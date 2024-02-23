@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
