@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
