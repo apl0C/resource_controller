@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Add new YOLOv8 OBB model metrics (#7379)
