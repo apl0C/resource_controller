@@ -1,1 +1,1 @@
-Update README.md
+Move Explorer tests to scheduled CI (#8305)
