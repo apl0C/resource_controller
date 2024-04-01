@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
