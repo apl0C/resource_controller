@@ -1,1 +1,1 @@
-add yolov10
+Retry once for Docker CI failures (#8164)
