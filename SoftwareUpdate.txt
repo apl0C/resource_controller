@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update README.md
