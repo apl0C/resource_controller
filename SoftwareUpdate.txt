@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
