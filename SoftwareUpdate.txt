@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
