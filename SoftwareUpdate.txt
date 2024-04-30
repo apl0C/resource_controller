@@ -1,1 +1,1 @@
-example Google Colab
+Update mkdocs.yml (#7693)
