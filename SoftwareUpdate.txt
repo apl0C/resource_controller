@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
