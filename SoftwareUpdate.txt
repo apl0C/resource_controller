@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Python refactorings and simplifications (#7549)
