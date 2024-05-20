@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
